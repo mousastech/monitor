@@ -3,7 +3,7 @@
 25 Top queries para la gestión de costes y auditoria.
 Consulta la documentación de [Tablas de Sistema](https://docs.databricks.com/aws/en/admin/system-tables/) para mas detalles.
 
-Se quieres puedes descargar el [Notebook con las queries] (https://github.com/mousastech/monitor/blob/main/System%20Tables%20Queries.ipynb)
+Se quieres puedes descargar el [Notebook con las queries](https://github.com/mousastech/monitor/blob/main/System%20Tables%20Queries.ipynb)
 
 **01. ¿Cuánto es el consumo diario de Databricks?**
 
